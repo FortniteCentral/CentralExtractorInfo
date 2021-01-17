@@ -1,0 +1,26 @@
+{
+  "GlobalMessages": {
+    "0.0.1.0": [
+      {
+        "Message": "If you're having an issue with FModel, make sure to let us know on Discord at ",
+        "Color": "#EFEFEF",
+        "NewLine": false
+      },
+      {
+        "Message": "https://fmodel.app/discord",
+        "Color": "#6C81CA",
+        "NewLine": true
+      }
+    ]
+  },
+  "Updater": {
+    "Version": "0.0.1.0",
+    "Url": "https://github.com/iAmAsval/FModel/releases/latest/download/FModel.zip",
+    "Changelog": "https://github.com/iAmAsval/FModel/releases/latest",
+    "Mandatory": {
+      "Value": false,
+      "MinimumVersion": "0.0.1.0",
+      "UpdateMode": 0
+    }
+  }
+}
